@@ -2,10 +2,11 @@
 
 Este proyecto es parte del proyecto de [Curso Práctico de JavaScript](https://platzi.com/cursos/javascript-practico/).
 
-Donde se manejan distintas actividades como:
+...
 
-- Taller #1: Figuras geométricas
-- Taller #2: Precios y descuentos
-- Taller #3: Promedio, moda y mediana
-- Taller #4: Analisis salarial
-- Deploy
+## Taller #1: Figuras Geométricas
+
+- Primer paso: Definir fórmulas
+- Segundo paso: Implementar fórmulas en JavaScript
+- Tercer paso: Crear Funciones
+- Cuarto paso: Integrar JS con HTML
